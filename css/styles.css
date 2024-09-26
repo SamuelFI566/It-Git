@@ -9,3 +9,11 @@ body {
 h1 {
     color: #df4b40;
 }
+
+.parrafo {
+    background-color: orange; /* Color de fondo naranja */
+    border: 2px solid #df4b40; /* Borde del mismo color que el título */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    display: inline-block; /* Ajusta el tamaño del recuadro */
+}
